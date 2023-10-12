@@ -16,9 +16,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 School library <a name="about-project"></a>
-
-**School library** management system is a comprehensive software project designed to streamline the management of students, teachers, and administrative tasks within an educational institution. This multi-phase project consists of seven key components, each aimed at enhancing functionality, maintainability, and usability.
+# 📖 Test driven development  <a name="about-project"></a>
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -37,8 +35,10 @@ This project is built using the following technologies:
 
 <details>
   <ul>
-    <li>Creation and management of student and teacher profiles.</li>
-    <li>Authentication and authorization to restrict access to authorized users.</li>
+    <li>unit tests using Rspec.</li>
+    <li>Understand an existing codebase in a way that allows for adding tests.</li>
+    <li>Rspec unit tests with mocks.</li>
+    <li>TDD concept.</li>
   </ul>
 </details>
 
@@ -47,7 +47,7 @@ This project is built using the following technologies:
 
 ## Getting Started <a name="getting-started"></a>
 
-To get started with the School library, follow the steps below:
+To get started with the TDD, follow the steps below:
 
 ### Prerequisites
 
@@ -60,15 +60,15 @@ Before running this project, make sure you have the following prerequisites inst
 1. Clone this repository to your desired folder:
 
    ```sh
-   git clone https://github.com/sheezu900/school_lib.git
+   git clone https://github.com/sheezu900/Test-driven-development.git
 
 2. Navigate to the project directory:
 
     ```sh
-    cd school_lib
+    cd Test-driven-development
 3. Run the program:
     ```sh
-    ruby school_lib.rb
+    ruby Test_driven_development.rb
 
 <!-- AUTHORS -->
 
@@ -82,17 +82,6 @@ GitHub: @sheezu900<br>
 - GitHub: [@githubhandle](https://github.com/anshuman7negi)
 - Twitter: [@twitterhandle](https://twitter.com/AnshumanNegi108)
 - LinkedIn: [@LinkedIn](https://www.linkedin.com/in/anshuman-singh-negi-33779a224/)
-
-## 🔭 Future Features <a name="future-features"></a>
-
-<details>
-<summary>In near future I am planning to implement parent portal</summary>
-  <ul>
-    <li>Mobile app for parents to access real-time information about their child's performance, attendance, and school activities.</li>
-    <li>Allow parents to communicate with teachers and administrators, schedule parent-teacher conferences, and receive notifications about important events or announcements.</li>
-    <li>Provide a secure and convenient way for parents to stay actively involved in their child's education.</li>
-  </ul>
-</details>
 
 <!-- CONTRIBUTING -->
 ## 🤝 Contributing <a name="contributing"></a>
